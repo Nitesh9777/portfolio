@@ -49,6 +49,3 @@ Example prompt for deketing a task :
  
 https://github.com/AishaAgarwal/To-Do-List-Application/assets/107138192/832814c7-cd21-4c85-81ed-e7192c720710
 
-## License
-
-This project is licensed under the MIT License.
