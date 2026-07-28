@@ -49,24 +49,6 @@ Example prompt for deketing a task :
  
 https://github.com/AishaAgarwal/To-Do-List-Application/assets/107138192/832814c7-cd21-4c85-81ed-e7192c720710
 
-## Contributing
-Feel free to contribute to this project by creating a pull request. We welcome any improvements, bug fixes, or new features.
+## License
 
-## Why & How to contribute?
-- If you find any bugs then please report them by creating an issue. 
-- If you can make a website look good by modifying then go ahead and describe it in issue and create pull request. 
-- If you can add more functionality, then create an issue and contribute by making pull request.
-
-
-
-
-## Thanks to all Contributors 💪
-
-<a href="https://github.com/Kritika30032002/To-Do-List-Application/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kritika30032002/To-Do-List-Application"/>
-</a>  <br>
-Thanks a lot for spending your time. <br>
-Keep rocking 🍻 <br>
-Also Give it a Star 🌟, If you loved contributing to the project.
-
-## [MIT Licensed](https://github.com/Kritika30032002/To-Do-List-Application/blob/main/LICENSE)
+This project is licensed under the MIT License.
