@@ -20,7 +20,7 @@ This is a simple yet effective To-Do List Application built with HTML, CSS, and 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://nitesh9777.github.io/to-do-list.git
+git clone https://github.com/nitesh9777/to-do-list.git
 ```
 Open the index.html file in your web browser to start using the application.
 
